@@ -1,0 +1,70 @@
+PODS:
+  - Alamofire (5.0.0-rc.3)
+  - BitByteData (1.4.1)
+  - Kingfisher (5.13.0):
+    - Kingfisher/Core (= 5.13.0)
+  - Kingfisher/Core (5.13.0)
+  - SWCompression (4.5.2):
+    - BitByteData (~> 1.4.1)
+    - SWCompression/BZip2 (= 4.5.2)
+    - SWCompression/Deflate (= 4.5.2)
+    - SWCompression/GZip (= 4.5.2)
+    - SWCompression/LZMA (= 4.5.2)
+    - SWCompression/LZMA2 (= 4.5.2)
+    - SWCompression/SevenZip (= 4.5.2)
+    - SWCompression/TAR (= 4.5.2)
+    - SWCompression/XZ (= 4.5.2)
+    - SWCompression/ZIP (= 4.5.2)
+    - SWCompression/Zlib (= 4.5.2)
+  - SWCompression/BZip2 (4.5.2):
+    - BitByteData (~> 1.4.1)
+  - SWCompression/Deflate (4.5.2):
+    - BitByteData (~> 1.4.1)
+  - SWCompression/GZip (4.5.2):
+    - BitByteData (~> 1.4.1)
+    - SWCompression/Deflate
+  - SWCompression/LZMA (4.5.2):
+    - BitByteData (~> 1.4.1)
+  - SWCompression/LZMA2 (4.5.2):
+    - BitByteData (~> 1.4.1)
+    - SWCompression/LZMA
+  - SWCompression/SevenZip (4.5.2):
+    - BitByteData (~> 1.4.1)
+    - SWCompression/LZMA2
+  - SWCompression/TAR (4.5.2):
+    - BitByteData (~> 1.4.1)
+  - SWCompression/XZ (4.5.2):
+    - BitByteData (~> 1.4.1)
+    - SWCompression/LZMA2
+  - SWCompression/ZIP (4.5.2):
+    - BitByteData (~> 1.4.1)
+    - SWCompression/Deflate
+  - SWCompression/Zlib (4.5.2):
+    - BitByteData (~> 1.4.1)
+    - SWCompression/Deflate
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire (= 5.0.0-rc.3)
+  - Kingfisher (~> 5.13)
+  - SWCompression (~> 4.5)
+  - SwiftyJSON (~> 5.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - BitByteData
+    - Kingfisher
+    - SWCompression
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: ca8c0de6906873be89d6deec5c8de279e00bf872
+  BitByteData: 40d356e9ce103ae62f34b74ed76c746eb5cc783f
+  Kingfisher: 0d334cada987fcddbe9b5cec516406e1ee9d4748
+  SWCompression: 2e6c72c93d8480ef896958355259576320557ef2
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: a1fd9b8b9ffa713440551f00aa4303748acd630c
+
+COCOAPODS: 1.8.4

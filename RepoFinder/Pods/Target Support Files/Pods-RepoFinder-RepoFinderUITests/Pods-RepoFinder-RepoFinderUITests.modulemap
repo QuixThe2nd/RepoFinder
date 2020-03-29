@@ -1,0 +1,6 @@
+framework module Pods_RepoFinder_RepoFinderUITests {
+  umbrella header "Pods-RepoFinder-RepoFinderUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

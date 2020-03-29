@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-RepoFinder/Pods-RepoFinder-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/BitByteData/BitByteData.framework
+${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework
+${BUILT_PRODUCTS_DIR}/SWCompression/SWCompression.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
